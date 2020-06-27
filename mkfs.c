@@ -4,7 +4,7 @@
 #include<linux/fs.h>
 #include<ext2fs/ext2_fs.h>
 #include<sys_types.h>
-#include<sts/stat.h>
+#include<sys/stat.h>
 #include<unistd.h>
 #include<uuid/uuid.h>
 #include<math.h>
